@@ -1,4 +1,4 @@
-import { Todo } from "../models/todo.model";
+import { Todo } from "../models/todo.model.js";
 
 
 // create
@@ -16,8 +16,3 @@ export const updateTodo = () => {}
 
 // delete
 export const deleteTodo = () => {}
-
-
-
-
-
